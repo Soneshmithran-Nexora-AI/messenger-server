@@ -1,0 +1,8 @@
+{
+  "name": "messaging-server",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Accounts, contacts, private messages between people, live updates and voice-call signaling. SQLite storage, no dependencies.",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node server.js" }
+}
